@@ -58,3 +58,5 @@ derby.log
 apps/HybridTrusteer/android/native
 apps/HybridTrusteer/iphone/native
 COMPONENTS-DATA
+.jazzignore
+/pom.xml
